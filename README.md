@@ -2,14 +2,14 @@
 48 hour hackthon by Plivo On Campus
 
 ### FILE STRUCTURE:
-
-* ├── backend
-    ├── models
-    ├── routes
-    ├── server.js
-  ├── Frontend
-    ├── src
-  └── README.md
+.
+├── backend
+│ ├── models
+│ ├── routes
+│ └── server.js
+├── frontend
+│ └── src
+└── README.md
 
 ### How to Start
 
