@@ -2,7 +2,7 @@
 48 hour hackthon by Plivo On Campus
 
 ### FILE STRUCTURE:
-
+```
 ├── backend
 │ ├── models
 │ ├── routes
@@ -10,7 +10,7 @@
 ├── frontend
 │ └── src
 └── README.md
-
+```
 ### How to Start
 
 ```
